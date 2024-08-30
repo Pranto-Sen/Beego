@@ -1,0 +1,5 @@
+appname = myApp
+httpport = 8080
+runmode = dev
+
+catapi_key = your_api_key

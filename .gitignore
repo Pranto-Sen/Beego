@@ -8,7 +8,7 @@
 *.out
 
 # Config files
-conf/app.conf
+/conf/app.conf
 
 # VS Code files
 .vscode/
@@ -17,6 +17,7 @@ conf/app.conf
 vendor/
 myApp/
 beego-catapi
+Beego
 
 # Ignore Go module files
 
